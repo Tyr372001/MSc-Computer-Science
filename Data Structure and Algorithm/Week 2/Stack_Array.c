@@ -2,6 +2,8 @@
 	Author: Subhradeep Sarkar
 	Date: 30/08/2024
 	Aim: Implementation of Stack Data Structure using Arrays
+ 	Platform: Windows
+  	Compiler: GNU C Compiler
 	
 	Description: Stack is a Linear data structure. It follows the 'Last In First Out' (LIFO) principle. Stack is implemented using Linked List and Arrays.
 	
